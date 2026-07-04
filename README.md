@@ -1,7 +1,7 @@
 #Arquitectura de Computadores
 
 Para que funcione el despliegue es necesario tener awsCLI configurado y terraform tambien
-
+desde el query editor de athe es necesario cambiar el workgroup de primary al que hemos creado
 y tener en cuenta que cuando se quiera hacer la pirmera query como la siguiente de ejemplo saber cuan es el bucket ue tienes
 
 ```bash
